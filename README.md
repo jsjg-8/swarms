@@ -4,7 +4,7 @@
   </a>
 </div>
 <p align="center">
-  <em>Multi-Agent Orchestration is incredibly painful swarms is making it simple, seamless, and reliable. </em>
+  <em>Multi-Agent Orchestration is incredibly painful. Swarms is making it simple, seamless, and reliable. </em>
 </p>
 
 <p align="center">
